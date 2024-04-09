@@ -2,5 +2,11 @@
     "name": "Catacomb",
     "symbol": "CATA",
     "description": "Catacomb",
-    "image": "https://zone139.github.io/meme/catacomb.jpg"
+    "image": "https://zone139.github.io/meme/catacomb.jpg",
+    "showName": true,
+    "twitter": "https://twitter.com/Catacomb_CATA",
+    "extensions": {
+      "website": "https://catacombs.godaddysites.com/",
+      "twitter": "https://twitter.com/Catacomb_CATA"
+    }
 }
